@@ -1,0 +1,21 @@
+h1{
+    color: goldenrod;
+}
+
+form{
+    color: greenyellow;
+}
+p{
+    color: gold;
+}
+::placeholder{
+    color: aquamarine;
+}
+a{
+    color: darkgoldenrod;
+    font-size: larger;
+}
+
+button{
+    color :chocolate;
+}

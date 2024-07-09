@@ -1,0 +1,26 @@
+div{
+   width: 50; margin: auto;
+}
+  span{
+   visibility: hidden;
+  }
+h1{
+   color: goldenrod;
+}
+
+
+p{
+    color: gold;
+}
+ p >a{
+    font-size: larger;
+ }
+ center >h1{
+    font-size: xx-large;
+ }
+p{
+   text-transform: uppercase;
+}
+a{
+   color: darkgoldenrod;
+}
